@@ -10,4 +10,4 @@ je suis actuelement chez BeCode pour encore plus apprendre.
 L'argent est bête, si on ne le dépense pas.
 
 **En cours d'apprentissage:**  
-HTML CSS JS
+HTML CSS JS PHP SQL
