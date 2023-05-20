@@ -1,5 +1,6 @@
 # Exercice Jason
 
+<<<<<<< HEAD
 
 
 
@@ -11,3 +12,7 @@ L'argent est bête, si on ne le dépense pas.
 
 **En cours d'apprentissage:**  
 HTML CSS JS
+
+### Jackson
+
+Abdoulaye33
